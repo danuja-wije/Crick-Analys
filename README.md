@@ -128,7 +128,7 @@ Dash is a python framework created by plotly for creating interactive web applic
 ### Installation
 <div id='i'></div>
 
-1. install python 3 [https://example.com](https://www.python.org/downloads/)
+1. install python 3 [https://www.python.org/downloads/](https://www.python.org/downloads/)
 2. Clone the repo
    ```sh
    git clone https://github.com/danuja-wije/Crick-Analys.git
