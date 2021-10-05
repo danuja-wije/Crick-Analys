@@ -209,7 +209,7 @@ Dash is a python framework created by plotly for creating interactive web applic
 ## Usage
 <div id = 'u'></div>
 
-### Home
+#### Home
 <div align="center" style={'display':'flex'}>
     <img src="images/home_view.PNG" alt="preview" width="60%" >
     <img src="images/home_mobile_view.PNG" alt="preview-mobile" width="30%">
@@ -248,16 +248,17 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
-<div id = 'co'></div>
-Name - [@Danuja Wijerathna](https://www.linkedin.com/in/danuja-wijerathna-04774a20a/) - danujawijerathne45@gmail.com
+<div id='co'></div>
+Name :<a href="https://www.linkedin.com/in/danuja-wijerathna-04774a20a/">
+     @Danuja Wijerathna
+   </a>- danujawijerathne45@gmail.com
 
-Project Link: [https://github.com/danuja-wije/Crick-Analys](https://github.com/danuja-wije/Crick-Analys)
-
-
+Project Link: <a href="https://github.com/danuja-wije/Crick-Analys">
+     https://github.com/danuja-wije/Crick-Analys
+   </a>
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 This is a project done for the Fundamentals of Data Mining (IT3051) of BSc.(Hons.) Degree in Information Technology in Sri Lanka Institute of Information Technology
-
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
