@@ -13,7 +13,7 @@
   <p align="center">
     Online player forecast & predictor
     <br />
-    <a href="https://mysliit-my.sharepoint.com/:b:/g/personal/it19957180_my_sliit_lk/EVdAB4g0WaJMs_sFaNT7TH0BSMhfxFuKnR7BQlk42433Rw?e=t0Md2a"><strong>Explore the docs »</strong></a>
+    <a href="https://mysliit-my.sharepoint.com/:f:/g/personal/it19957180_my_sliit_lk/Eu25ed-0sp9Cp46N872Zp9IBlc6bHEyg1v4yPqb4Jip1QA?e=xbvJDr"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://crick-analys.herokuapp.com/">View Demo</a>
